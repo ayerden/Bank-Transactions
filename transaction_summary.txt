@@ -1,0 +1,12 @@
+TYPE             AMOUNT            BALANCE
+--------------------------------------------
+BALANCE                            $55.34
+d              $12.65              $67.99
+d              $22.23              $90.22
+w              $87.56               $2.66
+h              $34.75      Invalid transaction type
+w              $23.37             $-20.71
+OVERCHARGE      $20 FEE           $-40.71
+w              $12.61             $-53.32
+OVERCHARGE      $20 FEE           $-73.32
+d              $69.12              $-4.20
